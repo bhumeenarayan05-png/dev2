@@ -16,3 +16,6 @@ venv/
 
 # Node
 node_modules/
+
+# Unused reference materials (not for submission)
+unused/
